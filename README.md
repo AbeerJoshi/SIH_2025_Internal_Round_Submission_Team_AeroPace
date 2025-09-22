@@ -15,7 +15,7 @@ This README provides an overview of the project, including team details, relevan
 - **Aditya Prasad** - 2025UEA6631 - [@Aditya Prasad](https://github.com/aditya-web28)
 - **Priyanshu Raj** - 2025UEA6564 - [@Priyanshu Raj](https://github.com/priyanshurajug25-ai)
 - **Teena Munjal** - 2025UCI6327 - [@Teena Munjal](https://github.com/teenamunjal496-hub)
-- **Shubham Thalor** - 2025UEA3506
+- **Shubham Thalor** - 2025UEA3506 - [@Shubham Thalor](https://github.com/ShubhamThalor)
 
 ## Project Links
 
