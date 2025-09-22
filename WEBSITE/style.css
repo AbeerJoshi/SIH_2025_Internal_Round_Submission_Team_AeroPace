@@ -1,0 +1,192 @@
+/* --- General Styles & Fonts --- */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 700px;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.08);
+    margin: 20px 0; /* Add margin for scrolling on long pages */
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 20px;
+}
+
+header h1 {
+    color: #005a4d;
+    margin: 0;
+}
+
+header p {
+    color: #555;
+    font-size: 1rem;
+}
+
+/* --- Form & Question Styling --- */
+.question-block {
+    margin-bottom: 25px;
+}
+
+.question-text {
+    font-weight: 600;
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+}
+
+.options label {
+    display: block;
+    background-color: #f8f9fa;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.options label:hover {
+    border-color: #00796b;
+    background-color: #e8f5e9;
+}
+
+.options input[type="radio"] {
+    margin-right: 10px;
+    accent-color: #00796b;
+}
+
+/* --- Button Styling --- */
+.submit-btn {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #fff;
+    background-color: #00796b; /* Main teal color */
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    margin-top: 20px;
+    text-align: center; /* Center text for <a> tags */
+    text-decoration: none; /* Remove underline from <a> tags */
+}
+
+.submit-btn:hover {
+    background-color: #005a4d; /* Darker teal on hover */
+}
+
+/* --- Results Page Styling --- */
+.result-page {
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.result-title {
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 2px solid;
+}
+
+.result-page h3 {
+    color: #005a4d;
+}
+
+.result-page ul {
+    list-style-type: '✔  ';
+    padding-left: 20px;
+}
+
+.result-page li {
+    margin-bottom: 10px;
+}
+
+/* Result-specific Colors */
+.low-risk { color: #2e7d32; border-color: #2e7d32; }
+.medium-risk { color: #ed6c02; border-color: #ed6c02; }
+.high-risk { color: #d32f2f; border-color: #d32f2f; }
+
+/* --- Utility Classes --- */
+.hidden {
+    display: none;
+}
+
+/* --- Footer --- */
+footer {
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #e0e0e0;
+    font-size: 0.85rem;
+    color: #777;
+}
+
+/* --- Responsive Design for Mobile --- */
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+    .container {
+        padding: 20px;
+    }
+}
+
+/* --- Styles for About Page --- */
+.about-content section {
+    margin-bottom: 30px;
+}
+
+.about-content h2 {
+    color: #005a4d;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.team-list {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.team-list li {
+    display: inline-block;
+    background-color: #f0f4f8;
+    color: #333;
+    padding: 8px 15px;
+    border-radius: 20px;
+    margin: 5px;
+    font-weight: 500;
+}
+
+/* --- NEW STYLES FOR LOGO --- */
+.logo-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.about-logo {
+    max-width: 120px; /* Adjust size as needed */
+    height: auto;
+    display: block; /* Ensures margin auto works */
+    margin: 0 auto; /* Centers the image */
+}
+.logo-container{opacity: 85%;}
