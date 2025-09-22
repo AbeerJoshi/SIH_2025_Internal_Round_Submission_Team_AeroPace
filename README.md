@@ -11,10 +11,10 @@ This README provides an overview of the project, including team details, relevan
 **Team Members:**
 
 - **Abeer Joshi** - 2025UCI6638 - [@AbeerJ](https://github.com/AbeerJoshi/)
-- **Manit Arora** - 2025UCI6524
-- **Aditya Prasad** - 2025UEA6631
-- **Priyanshu Raj** - 2025UEA6564
-- **Teena Munjal** - 2025UCI6327
+- **Manit Arora** - 2025UCI6524 - [@Manit Arora](https://github.com/LIGHTUNCHARGED)
+- **Aditya Prasad** - 2025UEA6631 - [@Aditya Prasad](https://github.com/aditya-web28)
+- **Priyanshu Raj** - 2025UEA6564 - [@Priyanshu Raj](https://github.com/priyanshurajug25-ai)
+- **Teena Munjal** - 2025UCI6327 - [@Teena Munjal](https://github.com/teenamunjal496-hub)
 - **Shubham Thalor** - 2025UEA3506
 
 ## Project Links
