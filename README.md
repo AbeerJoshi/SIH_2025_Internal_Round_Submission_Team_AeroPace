@@ -23,5 +23,5 @@ This README provides an overview of the project, including team details, relevan
 - **Video Demonstration:** [Watch Video]([UNLISTED YOUTUBE LINK](https://www.youtube.com/watch?v=qvIgvA_2BO8))
 - **Live Deployment:** [View Deployment]([DEPLOYED LINK](https://health-pool.tiiny.site/))
 - **Source Code (software):** [GitHub Repository]([GITHUB LINK TO THE GUI software code](https://github.com/AbeerJoshi/SIH_2025_Internal_Round_Submission_Team_AeroPace/blob/Main/HealthPool_GUI))
-- **Source Code (website):** [GitHub Repository]([GITHUB LINK TO THE website code](https://github.com/AbeerJoshi/SIH_2025_Internal_Round_Submission_Team_AeroPace/blob/Main/HealthPool_GUI))
+- **Source Code (website):** [GitHub Repository]([GITHUB LINK TO THE website code](https://github.com/AbeerJoshi/SIH_2025_Internal_Round_Submission_Team_AeroPace/blob/Main/HealthPool_GUI](https://github.com/AbeerJoshi/SIH_2025_Internal_Round_Submission_Team_AeroPace/tree/Main/WEBSITE)))
 
