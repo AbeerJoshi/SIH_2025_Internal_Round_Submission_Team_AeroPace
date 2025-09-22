@@ -19,7 +19,7 @@ This README provides an overview of the project, including team details, relevan
 
 ## Project Links
 
-- **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
+- **SIH Presentation:** [Final SIH Presentation + EXTRA MEDIA FILES]([URL TO PPT UPLOADED TO GITHUB](https://github.com/AbeerJoshi/SIH_2025_Internal_Round_Submission_Team_AeroPace/tree/Main/Media_FILES))
 - **Video Demonstration:** [Watch Video]([UNLISTED YOUTUBE LINK](https://www.youtube.com/watch?v=qvIgvA_2BO8))
 - **Live Deployment:** [View Deployment]([DEPLOYED LINK](https://health-pool.tiiny.site/))
 - **Source Code (software):** [GitHub Repository]([GITHUB LINK TO THE GUI software code](https://github.com/AbeerJoshi/SIH_2025_Internal_Round_Submission_Team_AeroPace/blob/Main/HealthPool_GUI))
