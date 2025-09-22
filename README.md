@@ -11,16 +11,16 @@ This README provides an overview of the project, including team details, relevan
 **Team Members:**
 
 - **Abeer Joshi** - 2025UCI6638 - [@USERNAME](https://github.com/AbeerJoshi/)
-- **MEMBER_2** - ROLL_NUMBER
-- **MEMBER_3** - ROLL_NUMBER
-- **MEMBER_4** - ROLL_NUMBER
-- **MEMBER_5** - ROLL_NUMBER
-- **MEMBER_6** - ROLL_NUMBER
+- **Manit Arora** - 2025UCI6524
+- **Aditya Prasad** - 2025UEA6631
+- **Priyanshu Raj** - 2025UEA6564
+- **Teena Munjal** - 2025UCI6327
+- **Shubham Thalor** - 2025UEA3506
 
 ## Project Links
 
 - **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
-- **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
+- **Video Demonstration:** [Watch Video]([UNLISTED YOUTUBE LINK](https://www.youtube.com/watch?v=qvIgvA_2BO8))
+- **Live Deployment:** [View Deployment]([DEPLOYED LINK IF ANY](https://health-pool.tiiny.site/))
 - **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
 - **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
