@@ -10,7 +10,7 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Members:**
 
-- **Abeer Joshi** - 2025UCI6638 - [@USERNAME](https://github.com/AbeerJoshi/)
+- **Abeer Joshi** - 2025UCI6638 - [@AbeerJ](https://github.com/AbeerJoshi/)
 - **Manit Arora** - 2025UCI6524
 - **Aditya Prasad** - 2025UEA6631
 - **Priyanshu Raj** - 2025UEA6564
@@ -21,6 +21,6 @@ This README provides an overview of the project, including team details, relevan
 
 - **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
 - **Video Demonstration:** [Watch Video]([UNLISTED YOUTUBE LINK](https://www.youtube.com/watch?v=qvIgvA_2BO8))
-- **Live Deployment:** [View Deployment]([DEPLOYED LINK IF ANY](https://health-pool.tiiny.site/))
+- **Live Deployment:** [View Deployment]([DEPLOYED LINK](https://health-pool.tiiny.site/))
 - **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
 - **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
