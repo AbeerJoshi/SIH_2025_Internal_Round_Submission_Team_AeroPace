@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comprehensive Water Safety Check</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+<div id="survey-container">
+<header>
+<h1>Comprehensive Water Safety Check</h1>
+<p>Answer 12 questions for a detailed look at your water safety and get actionable advice.</p>
+ </header>
+<form id="quiz-form">
+    <div class="question-block">
+        <p class="question-text">1. What is the main source of your household's drinking water?</p>
+    <div class="options">
+            <label><input type="radio" name="q1" value="0" required> Piped water / Bottled water / Tanker truck</label>
+             <label><input type="radio" name="q1" value="1" required> Public tap / Borehole / Protected well</label>
+             <label><input type="radio" name="q1" value="3" required> Unprotected well / River / Pond / Lake</label>
+    </div>
+    </div>
+
+    <div class="question-block">
+        <p class="question-text">2. Before drinking, how is your water typically treated?</p>
+                   
+  <div class="options">
+             <label><input type="radio" name="q2" value="0" required> We boil it, use a filter, or add chlorine</label>
+            <label><input type="radio" name="q2" value="3" required> We do not treat our water</label>
+</div>
+</div>
+
+<div class="question-block">
+        <p class="question-text">3. How often do you wash your hands with soap before preparing food or eating?</p>
+<div class="options">
+         <label><input type="radio" name="q3" value="0" required> Always</label>
+         <label><input type="radio" name="q3" value="1" required> Sometimes</label>
+         <label><input type="radio" name="q3" value="3" required> Rarely or Never</label>
+</div>
+</div>
+     <div class="question-block">
+        <p class="question-text">4. What kind of toilet facility does your household primarily use?</p>
+        <div class="options">
+            <label><input type="radio" name="q4" value="0" required> Flush toilet (to sewer or septic tank)</label>
+          <label><input type="radio" name="q4" value="1" required> Pit latrine with a slab (covered pit)</label>
+             <label><input type="radio" name="q4" value="3" required> No facility / Open defecation</label>
+ </div>
+ </div>
+                <div class="question-block">
+                    <p class="question-text">5. In the last 7 days, have you or anyone in your household had diarrhea?</p>
+                    <div class="options">
+             <label><input type="radio" name="q5" value="0" required> No</label>
+             <label><input type="radio" name="q5" value="3" required> Yes</label>
+                    </div>
+                </div>
+
+                <div class="question-block">
+                    <p class="question-text">6. How do you store your drinking water at home?</p>
+                    <div class="options">
+                        <label><input type="radio" name="q6" value="0" required> In a clean, covered, narrow-mouth container (e.g., jerrycan)</label>
+                   <label><input type="radio" name="q6" value="1" required> In a covered, wide-mouth container (e.g., bucket with lid)</label>
+                        <label><input type="radio" name="q6" value="3" required> In an open container</label>
+                    </div>
+     </div>
+                <div class="question-block">
+             <p class="question-text">7. Has your living area or water source experienced flooding in the last month?</p>
+                    <div class="options">
+                        <label><input type="radio" name="q7" value="0" required> No</label>
+                        <label><input type="radio" name="q7" value="3" required> Yes</label>
+                    </div>
+         </div>
+                <div class="question-block">
+            <p class="question-text">8. How is your household's garbage disposed of?</p>
+                    <div class="options">
+                        <label><input type="radio" name="q8" value="0" required> Collected by a waste service</label>
+                   <label><input type="radio" name="q8" value="1" required> Burned or buried in a designated pit</label>
+                        <label><input type="radio" name="q8" value="3" required> Disposed in an open pile, street, or river</label>
+                    </div>
+                </div>
+                <div class="question-block">
+                    <p class="question-text">9. How often do you wash your hands with soap after using the toilet?</p>
+                    <div class="options">
+                        <label><input type="radio" name="q9" value="0" required> Always</label>
+                 <label><input type="radio" name="q9" value="1" required> Sometimes</label>
+                        <label><input type="radio" name="q9" value="3" required> Rarely or Never</label>
+                    </div>
+                </div>
+                <div class="question-block">
+                    <p class="question-text">10. How do you wash fruits and vegetables before eating them raw?</p>
+                    <div class="options">
+                        <label><input type="radio" name="q10" value="0" required> With treated/bottled/boiled water</label>
+                <label><input type="radio" name="q10" value="1" required> With tap water from the main source</label>
+                        <label><input type="radio" name="q10" value="3" required> With untreated water, or just wipe them clean</label>
+                    </div>
+                </div>
+                <div class="question-block">
+                    <p class="question-text">11. Are animals (like cows, goats, chickens) kept or do they roam within 15 meters (about 50 feet) of your water source?</p>
+                    <div class="options">
+                        <label><input type="radio" name="q11" value="0" required> No</label>
+                        <label><input type="radio" name="q11" value="3" required> Yes</label>
+                    </div>
+        </div>
+         <div class="question-block">
+                    <p class="question-text">12. Are many other people in your immediate community or neighborhood currently sick with diarrhea?</p>
+                    <div class="options">
+                    <label><input type="radio" name="q12" value="0" required> No, not that I'm aware of</label>
+                 <label><input type="radio" name="q12" value="1" required> A few people seem to be sick</label>
+                <label><input type="radio" name="q12" value="3" required> Yes, it seems to be widespread</label>
+                    </div>
+                </div>
+
+                <button type="submit" class="submit-btn">See My Result</button>
+            </form>
+        </div>
+
+        <div id="results-container" class="hidden">
+            <div id="low-risk-result" class="result-page hidden">
+                <h2 class="result-title low-risk">Your Result: Low Risk</h2>
+                <p><strong>What this means:</strong> Your current water, sanitation, and hygiene practices are good. You are actively taking the right steps to protect yourself from most common water-borne diseases. Keep up the great work!</p>
+                <h3>Actionable Advice:</h3>
+                <ul>
+                 <li><strong>Stay Consistent:</strong> Continue using safe water sources, treating your water, and washing your hands regularly with soap. Consistency is key to staying safe.</li>
+             <li><strong>Check Your Water Filter:</strong> If you use a filter, ensure it is cleaned or replaced according to the manufacturer's instructions to keep it working effectively.</li>
+                 <li><strong>Safe Storage:</strong> Always store your clean drinking water in a clean, covered container to prevent it from getting contaminated after treatment.</li>
+                </ul>
+            </div>
+            
+            <div id="medium-risk-result" class="result-page hidden">
+            <h2 class="result-title medium-risk">Your Result: Medium Risk</h2>
+             <p><strong>What this means:</strong> Your situation has one or more risk factors that could lead to water-borne illness. By making a few simple changes, you can significantly improve your safety.</p>
+        <h3>Actionable Advice:</h3>
+         <ul>
+                 <li><strong>Prioritize Water Treatment:</strong> The single most important step you can take is to treat your drinking water. <strong>Always boil your water for at least one full minute</strong> before drinking it.</li>
+                 <li><strong>Focus on Handwashing:</strong> Make it a rule to <strong>wash hands with soap and water</strong> before eating, before preparing food, and after using the toilet.</li>
+                 <li><strong>Improve Sanitation:</strong> If possible, look into ways to improve your toilet facility, such as adding a concrete slab and cover to a pit latrine to keep flies out.</li>
+                </ul>
+            </div>
+
+            <div id="high-risk-result" class="result-page hidden">
+                <h2 class="result-title high-risk">Your Result: High Risk</h2>
+        <p><strong>What this means:</strong> Your current situation indicates a high risk of contracting a serious water-borne disease. It is very important to take immediate action to protect your health.</p>
+                <h3>Actionable Advice:</h3>
+                <ul>
+                    <li><strong>URGENT: Treat All Drinking Water:</strong> Do not drink any water without treating it first. The safest method is to bring it to a <strong>rolling boil for at least one minute</strong>.</li>
+                 <li><strong>See a Doctor if Unwell:</strong> If you or a family member has had diarrhea, vomiting, or fever, <strong>please see a healthcare worker immediately</strong>.</li>
+                    <li><strong>Practice Strict Handwashing:</strong> Wash your hands with soap and water as often as possible, especially before eating and after using the toilet.</li>
+                </ul>
+ </div>
+     <button id="retake-btn" class="submit-btn">Take Survey Again</button>
+ </div>
+
+<footer>
+     <p><strong>Disclaimer:</strong> This tool provides general guidance and is not a substitute for professional medical advice. If you are feeling sick, please consult a doctor.</p>
+    <a href="about.html" class = "submit-btm">About AEROPACE</a>
+</footer>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
